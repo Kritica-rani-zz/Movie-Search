@@ -1,0 +1,16 @@
+body{
+  background-color: pink;
+}
+
+.Movie_Item{
+  height:700px;
+  width:1300px
+}
+#input{
+  width:300px;
+
+}
+.App{
+  
+  margin:50px
+}
